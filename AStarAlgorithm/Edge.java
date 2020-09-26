@@ -1,4 +1,3 @@
-package com.company;
 
 class Edge {
     public int edgeWeight;
