@@ -1,4 +1,3 @@
-package com.company;
 
 class Vertex implements Comparable<Vertex>{
     public String label;
